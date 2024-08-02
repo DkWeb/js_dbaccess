@@ -1,0 +1,21 @@
+#all_items_table {
+    margin-top: 1em;
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid black;
+}
+
+#all_items_table tbody tr:nth-child(odd) {
+    background-color: white;
+    text-align: center;
+  }
+  
+  #all_items_table tbody tr:nth-child(even) {
+    background-color: gray;
+    text-align: center;
+  }
+
+  #buttons {
+    margin-top: 1em;
+  }
