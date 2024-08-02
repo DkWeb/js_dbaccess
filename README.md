@@ -7,3 +7,5 @@ Currently the lib just supports the following use cases
 - reading either one item or all items of an object store
 
 There is also a very simple index.html page, showing how to embed and to use the lib.
+
+You can checkout the example by visiting this [static page](https://dkweb.github.io/js_dbaccess/).
